@@ -1,5 +1,5 @@
 <h1 style="text-align: center !important;">
-    👋 ¡Hello World! 👩🏻‍💻
+    👋 ¡Hello World! Soy Maribel 👩🏻‍💻
 <h1>
 
 <div style="
@@ -25,6 +25,8 @@ Después de completar mis estudios en *Administración de Sistemas Informáticos
 
 ```Estoy muy motivada```, no solo por seguir aprendiendo y mejorando como desarrolladora, sino también por contribuir a la comunidad tecnológica con soluciones creativas y eficientes. Mi objetivo a futuro es dejar mi huella en el campo de la programación, ayudando a crear proyectos de impacto.
 
+Actualmente, estoy en búsqueda de nuevas oportunidades laborales que me permitan seguir creciendo profesionalmente como programadora y de esa forma poder aportar mis habilidades al mundo del desarrollo.
+
 ## Habilidades
 - **Desarrollo**: 
   - HTML 🌐
@@ -45,3 +47,4 @@ Después de completar mis estudios en *Administración de Sistemas Informáticos
        
 
 ## Contact
+¡Contactame utilizando el siguente correo! maribel.code@outlook.com
